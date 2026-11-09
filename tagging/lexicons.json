@@ -1,0 +1,57 @@
+{
+  "_description": "Exact lexicons for the quantitative register pass (ANALYTIC_BRIEF.md §7). Edit here, not in code. Every figure in every essay is regenerable by running tagging/count.py over the /transcripts files with these lists. Counts are crude regex passes over ASR text: directional evidence, not ground truth. ALWAYS report raw counts alongside rates so small-n fragility is visible (a dissociation from a 12-word lexicon on one episode is suggestive, not a result), and hand-check a sample before resting a claim on any count — see H3's demotion in essay 03 for why.",
+  "_regex_flags": "case-insensitive; matched as whole-word alternations with \\b boundaries except where a token contains internal punctuation",
+  "metrics": {
+    "hedges": {
+      "gloss": "epistemic hedge tokens (H2), faithful to ANALYTIC_BRIEF.md §7's exact list. NOTE: 'kind of'/'sort of' as degree adverbs inflate this; hand-check before quoting magnitude. Deliberately EXCLUDES 'I mean'/'probably'/'I suppose' (discourse markers / not in the brief's list) — including them roughly doubles BC's count, which is itself evidence the magnitude is lexicon-fragile.",
+      "tokens": ["I think", "I feel like", "I guess", "I don't know", "I dunno", "kind of", "kinda", "sort of", "sorta", "maybe"]
+    },
+    "profanity": {
+      "gloss": "profanity per 1k words + function (KJB structural/connective vs BC punctuational) — function is hand-coded, not captured here.",
+      "tokens": ["fuck", "fucking", "fucked", "fucker", "shit", "shitty", "bullshit", "asshole", "ass-hole", "bitch", "bitches", "goddamn", "damn", "dick", "cunt"]
+    },
+    "apology": {
+      "gloss": "apology tokens (BC apology subroutine vs KJB mock-apology vs — essay 03 — KJB genuine repair under live format). Hand-check sincere vs mock.",
+      "tokens": ["sorry", "apologise", "apologize", "apologies", "my bad", "my apologies", "I apologise", "I apologize"]
+    },
+    "first_person_singular": {
+      "gloss": "1sg rate (H6/H13 proxy). FREQUENCY is topic-driven and pair-variable (Casino Royale inverts); only FUNCTION is stable. Count function, not this number, for H13.",
+      "tokens": ["I", "me", "my", "mine", "myself"]
+    },
+    "first_person_plural": {
+      "gloss": "1pl rate.",
+      "tokens": ["we", "us", "our", "ours", "ourselves"]
+    },
+    "disgust": {
+      "gloss": "disgust/avoidance lexicon (H3). DEMOTED essay 03: lexical dissociation is pair-variable (depends on desire/body content + format). Treat as functional claim backed by hand-coded samples, not as a count. EXCLUDES 'creepy'/'cringe' (descriptive, not recoil-at-the-object): including them lifts KJB's Casino Royale count 8->? and erodes the dissociation, a worked example of why this rides on hand-coded function not raw lexicon.",
+      "tokens": ["gross", "grossed", "disgusting", "disgust", "hate", "hated", "hateful", "ew", "eww", "ick", "icky", "infuriating", "infuriated", "revolting", "nauseating"]
+    },
+    "anger": {
+      "gloss": "anger/contempt lexicon (H3). Same demotion caveat as disgust.",
+      "tokens": ["piece of shit", "get fucked", "fuck off", "prick", "pricks", "idiot", "idiots", "moron", "morons", "loser", "losers", "scumbag", "contempt", "wanker"]
+    },
+    "ingroup_kjb": {
+      "gloss": "KJB accreted in-house apparatus (H14 drift test, brief §7). Built from late episodes, counted backwards across the KJB span (The Rock ep22 ~Dec2021 -> F&F S4E30 Jan2026). Density per 1k = how much in-house apparatus is deployed unglossed-on-initiates. Report alongside the GLOSS hand-check (does SCUM get spelled out early vs late?) and distinct-apparatus-count, since the apparatus also literally accretes (GIRTH born ep22, Kaufman by ep24, Waingrow imported from Heat) so early eps can't contain later instruments. ONLY meaningful for KJB files. Note 'science-based' is the SCUM framing tag; 'homosocial' is the recurring imported thesis.",
+      "tokens": ["SCUM", "Kronsteen", "Cronstein", "Kronstein", "Rosette", "Kaufman", "Goodnight Cross", "Waingrow", "Waingrow", "GIRTH", "science-based", "homosocial", "homosociality"]
+    }
+  },
+  "ad_strip": {
+    "gloss": "BC iHeart ad reads are dynamically inserted at SCRAPE time (e.g. 2024 ads in a 2018 episode) — they reflect scrape date, not air date. Strip from register counts; cite separately as monetisation-architecture evidence. KJB has no ads (listener-funded). Stripping removes whole sentences matched by these campaign-marker regexes.",
+    "markers": [
+      "Daphne Caruana Galizia",
+      "Las Culturistas",
+      "Let's Talk Offline",
+      "Lucha Libre Behind the Mask",
+      "Crooks Everywhere",
+      "Dream Sequence",
+      "Sniffy's Cruising Confessions",
+      "In Our Own World",
+      "Two Cool Moms",
+      "Basket Case",
+      "iHeartRadio app",
+      "wherever you get your podcasts",
+      "wherever you stream podcasts"
+    ]
+  },
+  "timestamp_marker": "Starting point is [0-9:]+"
+}

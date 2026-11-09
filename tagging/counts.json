@@ -1,0 +1,1016 @@
+{
+  "atomic_blonde_BC.txt": {
+    "file": "atomic_blonde_BC.txt",
+    "words_after_strip": 16262,
+    "ad_words_stripped": 1080,
+    "metrics": {
+      "hedges": {
+        "raw": 159,
+        "per_1k": 9.78
+      },
+      "profanity": {
+        "raw": 31,
+        "per_1k": 1.91
+      },
+      "apology": {
+        "raw": 2,
+        "per_1k": 0.12
+      },
+      "first_person_singular": {
+        "raw": 768,
+        "per_1k": 47.23
+      },
+      "first_person_plural": {
+        "raw": 129,
+        "per_1k": 7.93
+      },
+      "disgust": {
+        "raw": 5,
+        "per_1k": 0.31
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "atomic_blonde_KJB.txt": {
+    "file": "atomic_blonde_KJB.txt",
+    "words_after_strip": 16110,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 168,
+        "per_1k": 10.43
+      },
+      "profanity": {
+        "raw": 140,
+        "per_1k": 8.69
+      },
+      "apology": {
+        "raw": 10,
+        "per_1k": 0.62
+      },
+      "first_person_singular": {
+        "raw": 617,
+        "per_1k": 38.3
+      },
+      "first_person_plural": {
+        "raw": 311,
+        "per_1k": 19.3
+      },
+      "disgust": {
+        "raw": 5,
+        "per_1k": 0.31
+      },
+      "anger": {
+        "raw": 8,
+        "per_1k": 0.5
+      },
+      "ingroup_kjb": {
+        "raw": 9,
+        "per_1k": 0.56
+      }
+    }
+  },
+  "austin_powers_BC.txt": {
+    "file": "austin_powers_BC.txt",
+    "words_after_strip": 13110,
+    "ad_words_stripped": 611,
+    "metrics": {
+      "hedges": {
+        "raw": 142,
+        "per_1k": 10.83
+      },
+      "profanity": {
+        "raw": 18,
+        "per_1k": 1.37
+      },
+      "apology": {
+        "raw": 4,
+        "per_1k": 0.31
+      },
+      "first_person_singular": {
+        "raw": 592,
+        "per_1k": 45.16
+      },
+      "first_person_plural": {
+        "raw": 124,
+        "per_1k": 9.46
+      },
+      "disgust": {
+        "raw": 8,
+        "per_1k": 0.61
+      },
+      "anger": {
+        "raw": 1,
+        "per_1k": 0.08
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "austin_powers_KJB.txt": {
+    "file": "austin_powers_KJB.txt",
+    "words_after_strip": 16392,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 95,
+        "per_1k": 5.8
+      },
+      "profanity": {
+        "raw": 173,
+        "per_1k": 10.55
+      },
+      "apology": {
+        "raw": 30,
+        "per_1k": 1.83
+      },
+      "first_person_singular": {
+        "raw": 687,
+        "per_1k": 41.91
+      },
+      "first_person_plural": {
+        "raw": 250,
+        "per_1k": 15.25
+      },
+      "disgust": {
+        "raw": 13,
+        "per_1k": 0.79
+      },
+      "anger": {
+        "raw": 4,
+        "per_1k": 0.24
+      },
+      "ingroup_kjb": {
+        "raw": 2,
+        "per_1k": 0.12
+      }
+    }
+  },
+  "birdcage_BC.txt": {
+    "file": "birdcage_BC.txt",
+    "words_after_strip": 12349,
+    "ad_words_stripped": 1745,
+    "metrics": {
+      "hedges": {
+        "raw": 158,
+        "per_1k": 12.79
+      },
+      "profanity": {
+        "raw": 12,
+        "per_1k": 0.97
+      },
+      "apology": {
+        "raw": 2,
+        "per_1k": 0.16
+      },
+      "first_person_singular": {
+        "raw": 474,
+        "per_1k": 38.38
+      },
+      "first_person_plural": {
+        "raw": 138,
+        "per_1k": 11.17
+      },
+      "disgust": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "anger": {
+        "raw": 1,
+        "per_1k": 0.08
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "birdcage_KJB_preview.txt": {
+    "file": "birdcage_KJB_preview.txt",
+    "words_after_strip": 1772,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 19,
+        "per_1k": 10.72
+      },
+      "profanity": {
+        "raw": 10,
+        "per_1k": 5.64
+      },
+      "apology": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "first_person_singular": {
+        "raw": 60,
+        "per_1k": 33.86
+      },
+      "first_person_plural": {
+        "raw": 28,
+        "per_1k": 15.8
+      },
+      "disgust": {
+        "raw": 1,
+        "per_1k": 0.56
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "casino_royale_BC.txt": {
+    "file": "casino_royale_BC.txt",
+    "words_after_strip": 14926,
+    "ad_words_stripped": 669,
+    "metrics": {
+      "hedges": {
+        "raw": 115,
+        "per_1k": 7.7
+      },
+      "profanity": {
+        "raw": 41,
+        "per_1k": 2.75
+      },
+      "apology": {
+        "raw": 13,
+        "per_1k": 0.87
+      },
+      "first_person_singular": {
+        "raw": 529,
+        "per_1k": 35.44
+      },
+      "first_person_plural": {
+        "raw": 150,
+        "per_1k": 10.05
+      },
+      "disgust": {
+        "raw": 15,
+        "per_1k": 1.0
+      },
+      "anger": {
+        "raw": 7,
+        "per_1k": 0.47
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "casino_royale_KJB.txt": {
+    "file": "casino_royale_KJB.txt",
+    "words_after_strip": 19608,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 128,
+        "per_1k": 6.53
+      },
+      "profanity": {
+        "raw": 175,
+        "per_1k": 8.92
+      },
+      "apology": {
+        "raw": 17,
+        "per_1k": 0.87
+      },
+      "first_person_singular": {
+        "raw": 728,
+        "per_1k": 37.13
+      },
+      "first_person_plural": {
+        "raw": 145,
+        "per_1k": 7.39
+      },
+      "disgust": {
+        "raw": 3,
+        "per_1k": 0.15
+      },
+      "anger": {
+        "raw": 12,
+        "per_1k": 0.61
+      },
+      "ingroup_kjb": {
+        "raw": 4,
+        "per_1k": 0.2
+      }
+    }
+  },
+  "die_hard_BC.txt": {
+    "file": "die_hard_BC.txt",
+    "words_after_strip": 13622,
+    "ad_words_stripped": 394,
+    "metrics": {
+      "hedges": {
+        "raw": 104,
+        "per_1k": 7.63
+      },
+      "profanity": {
+        "raw": 29,
+        "per_1k": 2.13
+      },
+      "apology": {
+        "raw": 20,
+        "per_1k": 1.47
+      },
+      "first_person_singular": {
+        "raw": 611,
+        "per_1k": 44.85
+      },
+      "first_person_plural": {
+        "raw": 223,
+        "per_1k": 16.37
+      },
+      "disgust": {
+        "raw": 8,
+        "per_1k": 0.59
+      },
+      "anger": {
+        "raw": 3,
+        "per_1k": 0.22
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "die_hard_KJB.txt": {
+    "file": "die_hard_KJB.txt",
+    "words_after_strip": 16311,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 166,
+        "per_1k": 10.18
+      },
+      "profanity": {
+        "raw": 151,
+        "per_1k": 9.26
+      },
+      "apology": {
+        "raw": 9,
+        "per_1k": 0.55
+      },
+      "first_person_singular": {
+        "raw": 434,
+        "per_1k": 26.61
+      },
+      "first_person_plural": {
+        "raw": 176,
+        "per_1k": 10.79
+      },
+      "disgust": {
+        "raw": 8,
+        "per_1k": 0.49
+      },
+      "anger": {
+        "raw": 12,
+        "per_1k": 0.74
+      },
+      "ingroup_kjb": {
+        "raw": 3,
+        "per_1k": 0.18
+      }
+    }
+  },
+  "fast_furious_BC.txt": {
+    "file": "fast_furious_BC.txt",
+    "words_after_strip": 17200,
+    "ad_words_stripped": 385,
+    "metrics": {
+      "hedges": {
+        "raw": 243,
+        "per_1k": 14.13
+      },
+      "profanity": {
+        "raw": 17,
+        "per_1k": 0.99
+      },
+      "apology": {
+        "raw": 8,
+        "per_1k": 0.47
+      },
+      "first_person_singular": {
+        "raw": 795,
+        "per_1k": 46.22
+      },
+      "first_person_plural": {
+        "raw": 206,
+        "per_1k": 11.98
+      },
+      "disgust": {
+        "raw": 5,
+        "per_1k": 0.29
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "fast_furious_KJB.txt": {
+    "file": "fast_furious_KJB.txt",
+    "words_after_strip": 15217,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 205,
+        "per_1k": 13.47
+      },
+      "profanity": {
+        "raw": 83,
+        "per_1k": 5.45
+      },
+      "apology": {
+        "raw": 7,
+        "per_1k": 0.46
+      },
+      "first_person_singular": {
+        "raw": 572,
+        "per_1k": 37.59
+      },
+      "first_person_plural": {
+        "raw": 213,
+        "per_1k": 14.0
+      },
+      "disgust": {
+        "raw": 4,
+        "per_1k": 0.26
+      },
+      "anger": {
+        "raw": 3,
+        "per_1k": 0.2
+      },
+      "ingroup_kjb": {
+        "raw": 15,
+        "per_1k": 0.99
+      }
+    }
+  },
+  "oceans_eleven_BC.txt": {
+    "file": "oceans_eleven_BC.txt",
+    "words_after_strip": 7583,
+    "ad_words_stripped": 496,
+    "metrics": {
+      "hedges": {
+        "raw": 69,
+        "per_1k": 9.1
+      },
+      "profanity": {
+        "raw": 11,
+        "per_1k": 1.45
+      },
+      "apology": {
+        "raw": 4,
+        "per_1k": 0.53
+      },
+      "first_person_singular": {
+        "raw": 375,
+        "per_1k": 49.45
+      },
+      "first_person_plural": {
+        "raw": 76,
+        "per_1k": 10.02
+      },
+      "disgust": {
+        "raw": 5,
+        "per_1k": 0.66
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "oceans_eleven_KJB.txt": {
+    "file": "oceans_eleven_KJB.txt",
+    "words_after_strip": 17406,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 142,
+        "per_1k": 8.16
+      },
+      "profanity": {
+        "raw": 118,
+        "per_1k": 6.78
+      },
+      "apology": {
+        "raw": 10,
+        "per_1k": 0.57
+      },
+      "first_person_singular": {
+        "raw": 467,
+        "per_1k": 26.83
+      },
+      "first_person_plural": {
+        "raw": 212,
+        "per_1k": 12.18
+      },
+      "disgust": {
+        "raw": 9,
+        "per_1k": 0.52
+      },
+      "anger": {
+        "raw": 1,
+        "per_1k": 0.06
+      },
+      "ingroup_kjb": {
+        "raw": 11,
+        "per_1k": 0.63
+      }
+    }
+  },
+  "point_break_BC.txt": {
+    "file": "point_break_BC.txt",
+    "words_after_strip": 15108,
+    "ad_words_stripped": 408,
+    "metrics": {
+      "hedges": {
+        "raw": 115,
+        "per_1k": 7.61
+      },
+      "profanity": {
+        "raw": 34,
+        "per_1k": 2.25
+      },
+      "apology": {
+        "raw": 8,
+        "per_1k": 0.53
+      },
+      "first_person_singular": {
+        "raw": 552,
+        "per_1k": 36.54
+      },
+      "first_person_plural": {
+        "raw": 186,
+        "per_1k": 12.31
+      },
+      "disgust": {
+        "raw": 2,
+        "per_1k": 0.13
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "point_break_KJB.txt": {
+    "file": "point_break_KJB.txt",
+    "words_after_strip": 19182,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 210,
+        "per_1k": 10.95
+      },
+      "profanity": {
+        "raw": 161,
+        "per_1k": 8.39
+      },
+      "apology": {
+        "raw": 7,
+        "per_1k": 0.36
+      },
+      "first_person_singular": {
+        "raw": 674,
+        "per_1k": 35.14
+      },
+      "first_person_plural": {
+        "raw": 181,
+        "per_1k": 9.44
+      },
+      "disgust": {
+        "raw": 5,
+        "per_1k": 0.26
+      },
+      "anger": {
+        "raw": 8,
+        "per_1k": 0.42
+      },
+      "ingroup_kjb": {
+        "raw": 9,
+        "per_1k": 0.47
+      }
+    }
+  },
+  "romy_michele_BC.txt": {
+    "file": "romy_michele_BC.txt",
+    "words_after_strip": 10447,
+    "ad_words_stripped": 3218,
+    "metrics": {
+      "hedges": {
+        "raw": 99,
+        "per_1k": 9.48
+      },
+      "profanity": {
+        "raw": 19,
+        "per_1k": 1.82
+      },
+      "apology": {
+        "raw": 6,
+        "per_1k": 0.57
+      },
+      "first_person_singular": {
+        "raw": 471,
+        "per_1k": 45.08
+      },
+      "first_person_plural": {
+        "raw": 181,
+        "per_1k": 17.33
+      },
+      "disgust": {
+        "raw": 4,
+        "per_1k": 0.38
+      },
+      "anger": {
+        "raw": 7,
+        "per_1k": 0.67
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "romy_michele_KJB_preview.txt": {
+    "file": "romy_michele_KJB_preview.txt",
+    "words_after_strip": 1867,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 18,
+        "per_1k": 9.64
+      },
+      "profanity": {
+        "raw": 10,
+        "per_1k": 5.36
+      },
+      "apology": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "first_person_singular": {
+        "raw": 108,
+        "per_1k": 57.85
+      },
+      "first_person_plural": {
+        "raw": 28,
+        "per_1k": 15.0
+      },
+      "disgust": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "satc_BC.txt": {
+    "file": "satc_BC.txt",
+    "words_after_strip": 14699,
+    "ad_words_stripped": 566,
+    "metrics": {
+      "hedges": {
+        "raw": 158,
+        "per_1k": 10.75
+      },
+      "profanity": {
+        "raw": 58,
+        "per_1k": 3.95
+      },
+      "apology": {
+        "raw": 5,
+        "per_1k": 0.34
+      },
+      "first_person_singular": {
+        "raw": 790,
+        "per_1k": 53.75
+      },
+      "first_person_plural": {
+        "raw": 142,
+        "per_1k": 9.66
+      },
+      "disgust": {
+        "raw": 13,
+        "per_1k": 0.88
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "satc_KJB_preview.txt": {
+    "file": "satc_KJB_preview.txt",
+    "words_after_strip": 2949,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 23,
+        "per_1k": 7.8
+      },
+      "profanity": {
+        "raw": 20,
+        "per_1k": 6.78
+      },
+      "apology": {
+        "raw": 3,
+        "per_1k": 1.02
+      },
+      "first_person_singular": {
+        "raw": 87,
+        "per_1k": 29.5
+      },
+      "first_person_plural": {
+        "raw": 24,
+        "per_1k": 8.14
+      },
+      "disgust": {
+        "raw": 7,
+        "per_1k": 2.37
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "spice_world_BC.txt": {
+    "file": "spice_world_BC.txt",
+    "words_after_strip": 10814,
+    "ad_words_stripped": 580,
+    "metrics": {
+      "hedges": {
+        "raw": 109,
+        "per_1k": 10.08
+      },
+      "profanity": {
+        "raw": 20,
+        "per_1k": 1.85
+      },
+      "apology": {
+        "raw": 14,
+        "per_1k": 1.29
+      },
+      "first_person_singular": {
+        "raw": 605,
+        "per_1k": 55.95
+      },
+      "first_person_plural": {
+        "raw": 108,
+        "per_1k": 9.99
+      },
+      "disgust": {
+        "raw": 15,
+        "per_1k": 1.39
+      },
+      "anger": {
+        "raw": 1,
+        "per_1k": 0.09
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "spice_world_KJB_preview.txt": {
+    "file": "spice_world_KJB_preview.txt",
+    "words_after_strip": 1663,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 8,
+        "per_1k": 4.81
+      },
+      "profanity": {
+        "raw": 10,
+        "per_1k": 6.01
+      },
+      "apology": {
+        "raw": 1,
+        "per_1k": 0.6
+      },
+      "first_person_singular": {
+        "raw": 37,
+        "per_1k": 22.25
+      },
+      "first_person_plural": {
+        "raw": 20,
+        "per_1k": 12.03
+      },
+      "disgust": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "the_rock_BC.txt": {
+    "file": "the_rock_BC.txt",
+    "words_after_strip": 12724,
+    "ad_words_stripped": 416,
+    "metrics": {
+      "hedges": {
+        "raw": 117,
+        "per_1k": 9.2
+      },
+      "profanity": {
+        "raw": 49,
+        "per_1k": 3.85
+      },
+      "apology": {
+        "raw": 11,
+        "per_1k": 0.86
+      },
+      "first_person_singular": {
+        "raw": 557,
+        "per_1k": 43.78
+      },
+      "first_person_plural": {
+        "raw": 145,
+        "per_1k": 11.4
+      },
+      "disgust": {
+        "raw": 12,
+        "per_1k": 0.94
+      },
+      "anger": {
+        "raw": 2,
+        "per_1k": 0.16
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "the_rock_KJB.txt": {
+    "file": "the_rock_KJB.txt",
+    "words_after_strip": 9864,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 64,
+        "per_1k": 6.49
+      },
+      "profanity": {
+        "raw": 68,
+        "per_1k": 6.89
+      },
+      "apology": {
+        "raw": 2,
+        "per_1k": 0.2
+      },
+      "first_person_singular": {
+        "raw": 259,
+        "per_1k": 26.26
+      },
+      "first_person_plural": {
+        "raw": 123,
+        "per_1k": 12.47
+      },
+      "disgust": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "anger": {
+        "raw": 8,
+        "per_1k": 0.81
+      },
+      "ingroup_kjb": {
+        "raw": 8,
+        "per_1k": 0.81
+      }
+    }
+  },
+  "what_women_want_BC.txt": {
+    "file": "what_women_want_BC.txt",
+    "words_after_strip": 16179,
+    "ad_words_stripped": 974,
+    "metrics": {
+      "hedges": {
+        "raw": 136,
+        "per_1k": 8.41
+      },
+      "profanity": {
+        "raw": 131,
+        "per_1k": 8.1
+      },
+      "apology": {
+        "raw": 14,
+        "per_1k": 0.87
+      },
+      "first_person_singular": {
+        "raw": 767,
+        "per_1k": 47.41
+      },
+      "first_person_plural": {
+        "raw": 196,
+        "per_1k": 12.11
+      },
+      "disgust": {
+        "raw": 8,
+        "per_1k": 0.49
+      },
+      "anger": {
+        "raw": 5,
+        "per_1k": 0.31
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  },
+  "what_women_want_KJB_preview.txt": {
+    "file": "what_women_want_KJB_preview.txt",
+    "words_after_strip": 1941,
+    "ad_words_stripped": 0,
+    "metrics": {
+      "hedges": {
+        "raw": 38,
+        "per_1k": 19.58
+      },
+      "profanity": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "apology": {
+        "raw": 2,
+        "per_1k": 1.03
+      },
+      "first_person_singular": {
+        "raw": 57,
+        "per_1k": 29.37
+      },
+      "first_person_plural": {
+        "raw": 14,
+        "per_1k": 7.21
+      },
+      "disgust": {
+        "raw": 1,
+        "per_1k": 0.52
+      },
+      "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
+      }
+    }
+  }
+}
