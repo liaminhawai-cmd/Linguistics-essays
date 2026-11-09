@@ -36,5 +36,5 @@ python3 tagging/count.py casino       # print just the matching files to stdout
    demoted from a lexical to a hand-coded functional claim (essay 03).
 4. **Report raw alongside rate**, always, so the reader can see the n.
 
-`/tools/register_counts.py` is the superseded ad-hoc script, kept only for
+`/tools/superseded/register_counts.py` is the superseded ad-hoc script, kept only for
 provenance; do not cite its output. `tagging/count.py` is canonical.
