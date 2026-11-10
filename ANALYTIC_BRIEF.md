@@ -12,6 +12,8 @@
 > - **§5 H3 (disgust vs anger).** Demoted: the word-count version failed to replicate and survives only as a hand-coded claim about function.
 > - **§5 H12 (citation).** Corrected: KJB does cite (Carole Pateman, by name); the difference is how the source is used.
 > - **§5 H14 (in-jokes hardening).** Was "now testable". It has been tested and came back null.
+> - **§2 KJB apparatus "used unglossed".** True of the secondary terms (Kronsteen, Waingrow), false of SCUM itself, which the hosts re-explain at the start of scoring in nearly every episode (correction C6).
+> - **§5 H17c "KJB never interrogates SCUM".** False in the newer episodes: an axis was criticised, debated and renamed (essay 11, correction C6).
 > - **§5 H15.** Held out of the study. Not pursued.
 >
 > Plain-English names for every code (H1–H17, C1–C4, Q-numbers) and show term are in `GLOSSARY.md`.

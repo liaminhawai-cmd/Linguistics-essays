@@ -38,3 +38,6 @@ python3 tagging/count.py casino       # print just the matching files to stdout
 
 `/tools/superseded/register_counts.py` is the superseded ad-hoc script, kept only for
 provenance; do not cite its output. `tagging/count.py` is canonical.
+
+## The extended in-joke test
+`ingroup_extended.py` → `ingroup_extended.json`. Runs the in-joke word list (original and a spelling-calibrated version) over the 23 full KJB episodes in broadcast order, including those in `transcripts/kjb_unpaired/`, and reports where the scoring segment starts, density inside and outside it, whether SCUM is spelled out, and which wording of the third axis is recited. Behind essay 11. Kept separate from `counts.json`, which covers only the matched pairs.

@@ -1,0 +1,774 @@
+{
+ "summary": {
+  "n": 23,
+  "spearman_order_vs_original": -0.313,
+  "spearman_order_vs_calibrated": -0.268,
+  "spearman_order_vs_outside_scoring": -0.19,
+  "spearman_new15_only_calibrated": 0.048,
+  "mean_original_first8": 0.49,
+  "mean_original_new15": 0.23,
+  "mean_calibrated_first8": 0.58,
+  "mean_calibrated_new15": 0.27,
+  "mean_outside_first8": 0.32,
+  "mean_outside_new15": 0.09,
+  "range_calibrated_first8": [
+   0.12,
+   1.18
+  ],
+  "range_calibrated_new15": [
+   0.1,
+   0.66
+  ],
+  "glossed_first8": 6,
+  "glossed_new15": 15,
+  "share_of_tokens_inside_scoring": 0.6,
+  "episodes_with_scoring_segment_found": 23,
+  "mean_distinct_terms_first8": 4.25,
+  "mean_distinct_terms_new15": 2.73,
+  "threshold_for_n23": 0.41
+ },
+ "episodes": [
+  {
+   "episode": "ep22 The Rock",
+   "file": "transcripts/the_rock_KJB.txt",
+   "source": "podscripts",
+   "words": 9864,
+   "original_raw": 8,
+   "original_per_1k": 0.81,
+   "calibrated_raw": 9,
+   "calibrated_per_1k": 0.91,
+   "by_term": {
+    "SCUM": 1,
+    "Goodnight Cross": 1,
+    "GIRTH": 3,
+    "science-based": 4
+   },
+   "distinct_terms": 4,
+   "scoring_starts_at_pct": 89,
+   "inside_raw": 9,
+   "inside_per_1k": 8.14,
+   "outside_raw": 0,
+   "outside_per_1k": 0.0,
+   "scum_glossed": false,
+   "third_axis": {
+    "unprovoked": 0,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    0,
+    0,
+    0,
+    2
+   ]
+  },
+  {
+   "episode": "ep24 Casino Royale",
+   "file": "transcripts/casino_royale_KJB.txt",
+   "source": "podscripts",
+   "words": 19608,
+   "original_raw": 4,
+   "original_per_1k": 0.2,
+   "calibrated_raw": 5,
+   "calibrated_per_1k": 0.25,
+   "by_term": {
+    "SCUM": 1,
+    "Kronsteen": 1,
+    "Kaufman": 1,
+    "Goodnight Cross": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 5,
+   "scoring_starts_at_pct": 91,
+   "inside_raw": 3,
+   "inside_per_1k": 1.79,
+   "outside_raw": 2,
+   "outside_per_1k": 0.11,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 2,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    5,
+    0,
+    2,
+    9
+   ]
+  },
+  {
+   "episode": "Die Hard (Dec 2022)",
+   "file": "transcripts/die_hard_KJB.txt",
+   "source": "podscripts",
+   "words": 16311,
+   "original_raw": 3,
+   "original_per_1k": 0.18,
+   "calibrated_raw": 4,
+   "calibrated_per_1k": 0.25,
+   "by_term": {
+    "SCUM": 1,
+    "science-based": 1,
+    "homosocial": 2
+   },
+   "distinct_terms": 3,
+   "scoring_starts_at_pct": 88,
+   "inside_raw": 2,
+   "inside_per_1k": 1.06,
+   "outside_raw": 2,
+   "outside_per_1k": 0.14,
+   "scum_glossed": false,
+   "third_axis": {
+    "unprovoked": 1,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    0,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "episode": "S2E22 Atomic Blonde",
+   "file": "transcripts/atomic_blonde_KJB.txt",
+   "source": "podscripts",
+   "words": 16110,
+   "original_raw": 9,
+   "original_per_1k": 0.56,
+   "calibrated_raw": 9,
+   "calibrated_per_1k": 0.56,
+   "by_term": {
+    "SCUM": 3,
+    "Kronsteen": 2,
+    "Rosette": 2,
+    "science-based": 2
+   },
+   "distinct_terms": 4,
+   "scoring_starts_at_pct": 89,
+   "inside_raw": 4,
+   "inside_per_1k": 2.32,
+   "outside_raw": 5,
+   "outside_per_1k": 0.35,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 2,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    3,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "episode": "S2E23 Austin Powers (live)",
+   "file": "transcripts/austin_powers_KJB.txt",
+   "source": "podscripts",
+   "words": 16392,
+   "original_raw": 2,
+   "original_per_1k": 0.12,
+   "calibrated_raw": 2,
+   "calibrated_per_1k": 0.12,
+   "by_term": {
+    "SCUM": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 2,
+   "scoring_starts_at_pct": 89,
+   "inside_raw": 2,
+   "inside_per_1k": 1.16,
+   "outside_raw": 0,
+   "outside_per_1k": 0.0,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 2,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    1,
+    2,
+    2,
+    3
+   ]
+  },
+  {
+   "episode": "S4E3 Ocean's Eleven",
+   "file": "transcripts/oceans_eleven_KJB.txt",
+   "source": "podscripts",
+   "words": 17406,
+   "original_raw": 11,
+   "original_per_1k": 0.63,
+   "calibrated_raw": 14,
+   "calibrated_per_1k": 0.8,
+   "by_term": {
+    "SCUM": 1,
+    "Kronsteen": 1,
+    "Rosette": 1,
+    "Waingrow": 4,
+    "science-based": 3,
+    "homosocial": 4
+   },
+   "distinct_terms": 6,
+   "scoring_starts_at_pct": 86,
+   "inside_raw": 7,
+   "inside_per_1k": 2.9,
+   "outside_raw": 7,
+   "outside_per_1k": 0.47,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 2,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    8,
+    2,
+    2,
+    6
+   ]
+  },
+  {
+   "episode": "S4E22 Point Break",
+   "file": "transcripts/point_break_KJB.txt",
+   "source": "podscripts",
+   "words": 19182,
+   "original_raw": 9,
+   "original_per_1k": 0.47,
+   "calibrated_raw": 11,
+   "calibrated_per_1k": 0.57,
+   "by_term": {
+    "SCUM": 1,
+    "Kronsteen": 3,
+    "Rosette": 4,
+    "Goodnight Cross": 2,
+    "science-based": 1
+   },
+   "distinct_terms": 5,
+   "scoring_starts_at_pct": 90,
+   "inside_raw": 7,
+   "inside_per_1k": 3.62,
+   "outside_raw": 4,
+   "outside_per_1k": 0.23,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 2,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    1,
+    1,
+    2,
+    2
+   ]
+  },
+  {
+   "episode": "S4E30 Fast and the Furious",
+   "file": "transcripts/fast_furious_KJB.txt",
+   "source": "podscripts",
+   "words": 15217,
+   "original_raw": 15,
+   "original_per_1k": 0.99,
+   "calibrated_raw": 18,
+   "calibrated_per_1k": 1.18,
+   "by_term": {
+    "SCUM": 2,
+    "Kronsteen": 9,
+    "Rosette": 4,
+    "Goodnight Cross": 1,
+    "homosocial": 2
+   },
+   "distinct_terms": 5,
+   "scoring_starts_at_pct": 86,
+   "inside_raw": 1,
+   "inside_per_1k": 0.49,
+   "outside_raw": 17,
+   "outside_per_1k": 1.29,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 2,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    2,
+    2,
+    2,
+    9
+   ]
+  },
+  {
+   "episode": "S4E34 Fast Five",
+   "file": "transcripts/kjb_unpaired/s4e34_fast_five_KJB.txt",
+   "source": "youtube",
+   "words": 20105,
+   "original_raw": 6,
+   "original_per_1k": 0.3,
+   "calibrated_raw": 6,
+   "calibrated_per_1k": 0.3,
+   "by_term": {
+    "SCUM": 1,
+    "Kronsteen": 3,
+    "Rosette": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 4,
+   "scoring_starts_at_pct": 90,
+   "inside_raw": 3,
+   "inside_per_1k": 1.43,
+   "outside_raw": 3,
+   "outside_per_1k": 0.17,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 4,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    4,
+    5,
+    4,
+    5
+   ]
+  },
+  {
+   "episode": "S4E36 Furious 7",
+   "file": "transcripts/kjb_unpaired/s4e36_furious_7_KJB.txt",
+   "source": "youtube",
+   "words": 22012,
+   "original_raw": 3,
+   "original_per_1k": 0.14,
+   "calibrated_raw": 3,
+   "calibrated_per_1k": 0.14,
+   "by_term": {
+    "SCUM": 1,
+    "Kronsteen": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 3,
+   "scoring_starts_at_pct": 91,
+   "inside_raw": 3,
+   "inside_per_1k": 1.44,
+   "outside_raw": 0,
+   "outside_per_1k": 0.0,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 2,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    6,
+    2,
+    2,
+    4
+   ]
+  },
+  {
+   "episode": "S4E37 Fate of the Furious",
+   "file": "transcripts/kjb_unpaired/s4e37_fate_of_the_furious_KJB.txt",
+   "source": "youtube",
+   "words": 21088,
+   "original_raw": 11,
+   "original_per_1k": 0.52,
+   "calibrated_raw": 14,
+   "calibrated_per_1k": 0.66,
+   "by_term": {
+    "SCUM": 11,
+    "Kronsteen": 3
+   },
+   "distinct_terms": 2,
+   "scoring_starts_at_pct": 87,
+   "inside_raw": 11,
+   "inside_per_1k": 3.94,
+   "outside_raw": 3,
+   "outside_per_1k": 0.16,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 2,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    0,
+    7,
+    2,
+    5
+   ]
+  },
+  {
+   "episode": "S4E38 Hobbs & Shaw",
+   "file": "transcripts/kjb_unpaired/s4e38_fast_and_furious_presents_hobbs_and_shaw_KJB.txt",
+   "source": "youtube",
+   "words": 20318,
+   "original_raw": 2,
+   "original_per_1k": 0.1,
+   "calibrated_raw": 2,
+   "calibrated_per_1k": 0.1,
+   "by_term": {
+    "SCUM": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 2,
+   "scoring_starts_at_pct": 88,
+   "inside_raw": 2,
+   "inside_per_1k": 0.8,
+   "outside_raw": 0,
+   "outside_per_1k": 0.0,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 3,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    1,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "episode": "S4E39 F9",
+   "file": "transcripts/kjb_unpaired/s4e39_f9_the_fast_saga_KJB.txt",
+   "source": "youtube",
+   "words": 20435,
+   "original_raw": 6,
+   "original_per_1k": 0.29,
+   "calibrated_raw": 6,
+   "calibrated_per_1k": 0.29,
+   "by_term": {
+    "SCUM": 3,
+    "Kronsteen": 1,
+    "science-based": 2
+   },
+   "distinct_terms": 3,
+   "scoring_starts_at_pct": 85,
+   "inside_raw": 5,
+   "inside_per_1k": 1.67,
+   "outside_raw": 1,
+   "outside_per_1k": 0.06,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 4,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    1,
+    3,
+    4,
+    7
+   ]
+  },
+  {
+   "episode": "S4E40 Fast X",
+   "file": "transcripts/kjb_unpaired/s4e40_fast_x_KJB.txt",
+   "source": "youtube",
+   "words": 19618,
+   "original_raw": 3,
+   "original_per_1k": 0.15,
+   "calibrated_raw": 5,
+   "calibrated_per_1k": 0.25,
+   "by_term": {
+    "SCUM": 1,
+    "Kronsteen": 3,
+    "science-based": 1
+   },
+   "distinct_terms": 3,
+   "scoring_starts_at_pct": 88,
+   "inside_raw": 2,
+   "inside_per_1k": 0.85,
+   "outside_raw": 3,
+   "outside_per_1k": 0.17,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 3,
+    "unnecessary": 0
+   },
+   "axis_mentions": [
+    4,
+    3,
+    3,
+    3
+   ]
+  },
+  {
+   "episode": "S4E41 Blue Collar",
+   "file": "transcripts/kjb_unpaired/s4e41_blue_collar_KJB.txt",
+   "source": "youtube",
+   "words": 17270,
+   "original_raw": 2,
+   "original_per_1k": 0.12,
+   "calibrated_raw": 2,
+   "calibrated_per_1k": 0.12,
+   "by_term": {
+    "SCUM": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 2,
+   "scoring_starts_at_pct": 86,
+   "inside_raw": 2,
+   "inside_per_1k": 0.85,
+   "outside_raw": 0,
+   "outside_per_1k": 0.0,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 1,
+    "unnecessary": 4
+   },
+   "axis_mentions": [
+    4,
+    2,
+    5,
+    14
+   ]
+  },
+  {
+   "episode": "S4E42 Baby Driver",
+   "file": "transcripts/kjb_unpaired/s4e42_baby_driver_KJB.txt",
+   "source": "youtube",
+   "words": 17070,
+   "original_raw": 2,
+   "original_per_1k": 0.12,
+   "calibrated_raw": 4,
+   "calibrated_per_1k": 0.23,
+   "by_term": {
+    "SCUM": 1,
+    "Waingrow": 2,
+    "science-based": 1
+   },
+   "distinct_terms": 3,
+   "scoring_starts_at_pct": 88,
+   "inside_raw": 2,
+   "inside_per_1k": 1.01,
+   "outside_raw": 2,
+   "outside_per_1k": 0.13,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 0,
+    "unnecessary": 2
+   },
+   "axis_mentions": [
+    1,
+    4,
+    2,
+    2
+   ]
+  },
+  {
+   "episode": "S4E43 The Blues Brothers",
+   "file": "transcripts/kjb_unpaired/s4e43_the_blues_brothers_KJB.txt",
+   "source": "youtube",
+   "words": 15337,
+   "original_raw": 2,
+   "original_per_1k": 0.13,
+   "calibrated_raw": 2,
+   "calibrated_per_1k": 0.13,
+   "by_term": {
+    "SCUM": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 2,
+   "scoring_starts_at_pct": 88,
+   "inside_raw": 1,
+   "inside_per_1k": 0.53,
+   "outside_raw": 1,
+   "outside_per_1k": 0.07,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 1,
+    "unnecessary": 5
+   },
+   "axis_mentions": [
+    5,
+    3,
+    6,
+    3
+   ]
+  },
+  {
+   "episode": "S4E44 Pelham 123 (1974)",
+   "file": "transcripts/kjb_unpaired/s4e44_the_taking_of_pelham_123_KJB.txt",
+   "source": "youtube",
+   "words": 16293,
+   "original_raw": 4,
+   "original_per_1k": 0.25,
+   "calibrated_raw": 6,
+   "calibrated_per_1k": 0.37,
+   "by_term": {
+    "SCUM": 3,
+    "Waingrow": 2,
+    "science-based": 1
+   },
+   "distinct_terms": 3,
+   "scoring_starts_at_pct": 82,
+   "inside_raw": 4,
+   "inside_per_1k": 1.36,
+   "outside_raw": 2,
+   "outside_per_1k": 0.15,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 1,
+    "unnecessary": 2
+   },
+   "axis_mentions": [
+    0,
+    3,
+    3,
+    7
+   ]
+  },
+  {
+   "episode": "S4E46 Entrapment",
+   "file": "transcripts/kjb_unpaired/s4e46_entrapment_KJB.txt",
+   "source": "youtube",
+   "words": 18888,
+   "original_raw": 4,
+   "original_per_1k": 0.21,
+   "calibrated_raw": 5,
+   "calibrated_per_1k": 0.26,
+   "by_term": {
+    "SCUM": 3,
+    "Goodnight Cross": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 3,
+   "scoring_starts_at_pct": 87,
+   "inside_raw": 4,
+   "inside_per_1k": 1.64,
+   "outside_raw": 1,
+   "outside_per_1k": 0.06,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 0,
+    "unnecessary": 4
+   },
+   "axis_mentions": [
+    4,
+    2,
+    4,
+    3
+   ]
+  },
+  {
+   "episode": "S4E47 Reservoir Dogs",
+   "file": "transcripts/kjb_unpaired/s4e47_reservoir_dogs_KJB.txt",
+   "source": "youtube",
+   "words": 16538,
+   "original_raw": 7,
+   "original_per_1k": 0.42,
+   "calibrated_raw": 8,
+   "calibrated_per_1k": 0.48,
+   "by_term": {
+    "SCUM": 1,
+    "Rosette": 2,
+    "science-based": 2,
+    "homosocial": 3
+   },
+   "distinct_terms": 4,
+   "scoring_starts_at_pct": 82,
+   "inside_raw": 4,
+   "inside_per_1k": 1.34,
+   "outside_raw": 4,
+   "outside_per_1k": 0.3,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 0,
+    "unnecessary": 2
+   },
+   "axis_mentions": [
+    0,
+    2,
+    2,
+    14
+   ]
+  },
+  {
+   "episode": "S4E48 Point Blank",
+   "file": "transcripts/kjb_unpaired/s4e48_point_blank_KJB.txt",
+   "source": "youtube",
+   "words": 12889,
+   "original_raw": 4,
+   "original_per_1k": 0.31,
+   "calibrated_raw": 4,
+   "calibrated_per_1k": 0.31,
+   "by_term": {
+    "SCUM": 3,
+    "science-based": 1
+   },
+   "distinct_terms": 2,
+   "scoring_starts_at_pct": 85,
+   "inside_raw": 4,
+   "inside_per_1k": 2.12,
+   "outside_raw": 0,
+   "outside_per_1k": 0.0,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 0,
+    "unnecessary": 2
+   },
+   "axis_mentions": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "episode": "S4E49 Jackie Brown",
+   "file": "transcripts/kjb_unpaired/s4e49_jackie_brown_KJB.txt",
+   "source": "youtube",
+   "words": 17422,
+   "original_raw": 4,
+   "original_per_1k": 0.23,
+   "calibrated_raw": 5,
+   "calibrated_per_1k": 0.29,
+   "by_term": {
+    "SCUM": 2,
+    "science-based": 1,
+    "homosocial": 2
+   },
+   "distinct_terms": 3,
+   "scoring_starts_at_pct": 84,
+   "inside_raw": 3,
+   "inside_per_1k": 1.08,
+   "outside_raw": 2,
+   "outside_per_1k": 0.14,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 0,
+    "unnecessary": 3
+   },
+   "axis_mentions": [
+    3,
+    4,
+    3,
+    3
+   ]
+  },
+  {
+   "episode": "S4E50 Layer Cake",
+   "file": "transcripts/kjb_unpaired/s4e50_layer_cake_KJB.txt",
+   "source": "youtube",
+   "words": 16025,
+   "original_raw": 2,
+   "original_per_1k": 0.12,
+   "calibrated_raw": 2,
+   "calibrated_per_1k": 0.12,
+   "by_term": {
+    "SCUM": 1,
+    "science-based": 1
+   },
+   "distinct_terms": 2,
+   "scoring_starts_at_pct": 91,
+   "inside_raw": 2,
+   "inside_per_1k": 1.38,
+   "outside_raw": 0,
+   "outside_per_1k": 0.0,
+   "scum_glossed": true,
+   "third_axis": {
+    "unprovoked": 0,
+    "unnecessary": 3
+   },
+   "axis_mentions": [
+    0,
+    2,
+    3,
+    7
+   ]
+  }
+ ]
+}

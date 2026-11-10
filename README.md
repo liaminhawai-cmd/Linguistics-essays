@@ -2,7 +2,7 @@
 
 **Read it here:** https://liaminhawai-cmd.github.io/Linguistics-essays/
 
-An unfinished comparative discourse study of two feminist film podcasts, *Kill James Bond!* and *The Bechdel Cast*, working film by film through the episodes both shows made. There are ten essays and four synthesis chapters, plus the running findings ledger and the analytic brief that governs the study.
+An unfinished comparative discourse study of two feminist film podcasts, *Kill James Bond!* and *The Bechdel Cast*, working film by film through the episodes both shows made. There are eleven essays and four synthesis chapters, plus the running findings ledger and the analytic brief that governs the study.
 
 ## What's here
 
